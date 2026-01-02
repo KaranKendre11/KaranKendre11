@@ -11,9 +11,10 @@
 
 <!-- Social Badges -->
 <p>
-<a href="https://linkedin.com/in/Kkendre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/karan-kendre-341213191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:karankendre.app@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/KaranKendre11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://scholar.google.com/citations?user=TSzE3WkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 <a href="https://leetcode.com/u/mvpcreed/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
@@ -267,8 +268,21 @@ timeline
 
 <div align="center">
 
-| 📜 Certification | 🏛️ Provider |
-|:---------------:|:-----------:|
+### 🎓 Academic Honors
+**Machine Learning & Artificial Intelligence Honors**  
+*Savitribai Phule Pune University* — Recognized for excellence in ML/AI during undergraduate studies
+
+### 📄 Publication
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TSzE3WkAAAAJ&citation_for_view=TSzE3WkAAAAJ:u5HHmVD_uO8C">
+<img src="https://img.shields.io/badge/arXiv-Machine_Learning_for_Quantum_Noise_Reduction-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/>
+</a>
+
+*K. Kendre — arXiv preprint arXiv:2509.16242, 2025*
+
+### 📜 Certifications
+
+| Certification | Provider |
+|:-------------:|:--------:|
 | Generative AI with LLMs | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
 | Deep Learning Specialization | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
 | ML Specialization | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
@@ -311,7 +325,7 @@ timeline
 
 **Open to collaborations on LLMs, AI/ML research, distributed systems, and more!**
 
-<a href="https://linkedin.com/in/Kkendre">
+<a href="https://www.linkedin.com/in/karan-kendre-341213191/">
 <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
