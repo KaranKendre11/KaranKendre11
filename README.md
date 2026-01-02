@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Karan%20Kendre&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20Researcher%20|%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Karan%20Kendre&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Researcher%20|%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=MS+Computer+Science+%40+Northeastern+University;Building+Scalable+Systems+%7C+Explainable+AI+%7C+Quantum+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=MS+Computer+Science+%40+Northeastern+University;-Building+Scalable+Systems+%7C+Explainable+AI+%7C+Quantum+Computing)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
