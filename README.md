@@ -11,6 +11,7 @@
 
 <!-- Social Badges -->
 <p>
+<a href="https://karankendre.space"><img src="https://img.shields.io/badge/my_website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="MyWebsite"/></a>
 <a href="https://www.linkedin.com/in/karan-kendre-341213191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:karankendre.app@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/KaranKendre11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
